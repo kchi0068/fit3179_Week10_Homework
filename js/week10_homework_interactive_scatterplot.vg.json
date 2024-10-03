@@ -143,7 +143,7 @@
                 },
                 "tooltip": [
                     {"field": "Countries", "type": "nominal", "title": "Country"},
-                    {"field": "Education_prices_2017", "type": "quantitative", "title": "Education Price Index"},
+                    {"field": "Education_prices_2017", "type": "quantitative", "title": "Education Price Index", "format": ".2f"},
                     {"field": "Gov_expenditure_on_education_by_GDP_2017", 
                     "type": "quantitative", 
                     "title": "Education Spending by GDP",
