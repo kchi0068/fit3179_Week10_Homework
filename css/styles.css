@@ -1,0 +1,28 @@
+
+
+.description-right {
+    padding-left: 20px;
+}
+
+.description-left {
+    padding-right: 20px;
+}
+
+.vis-container {
+    width: 100%;
+}
+
+.page {
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
+.pure-g {
+	margin-bottom: 50px;
+}
+
+.vis-container {
+    width: 100%;
+}
